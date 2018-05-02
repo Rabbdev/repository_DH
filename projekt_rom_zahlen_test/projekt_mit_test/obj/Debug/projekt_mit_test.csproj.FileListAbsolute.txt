@@ -1,0 +1,10 @@
+D:\github_projects\repos\repository_DH\repository_DH\projekt_mit_test\projekt_mit_test\bin\Debug\projekt_mit_test.dll
+D:\github_projects\repos\repository_DH\repository_DH\projekt_mit_test\projekt_mit_test\bin\Debug\projekt_mit_test.pdb
+D:\github_projects\repos\repository_DH\repository_DH\projekt_mit_test\projekt_mit_test\obj\Debug\projekt_mit_test.csprojResolveAssemblyReference.cache
+D:\github_projects\repos\repository_DH\repository_DH\projekt_mit_test\projekt_mit_test\obj\Debug\projekt_mit_test.dll
+D:\github_projects\repos\repository_DH\repository_DH\projekt_mit_test\projekt_mit_test\obj\Debug\projekt_mit_test.pdb
+D:\github_projects\repos\repository_DH\repository_DH\projekt_rom_zahlen_test\projekt_mit_test\bin\Debug\projekt_mit_test.dll
+D:\github_projects\repos\repository_DH\repository_DH\projekt_rom_zahlen_test\projekt_mit_test\bin\Debug\projekt_mit_test.pdb
+D:\github_projects\repos\repository_DH\repository_DH\projekt_rom_zahlen_test\projekt_mit_test\obj\Debug\projekt_mit_test.csprojResolveAssemblyReference.cache
+D:\github_projects\repos\repository_DH\repository_DH\projekt_rom_zahlen_test\projekt_mit_test\obj\Debug\projekt_mit_test.dll
+D:\github_projects\repos\repository_DH\repository_DH\projekt_rom_zahlen_test\projekt_mit_test\obj\Debug\projekt_mit_test.pdb
