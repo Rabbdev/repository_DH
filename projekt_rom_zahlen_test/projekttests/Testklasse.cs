@@ -14,13 +14,13 @@ namespace projekttests
             [Test, Category("Umrechungstest")]
             public void Test_zahl()
             {
-                var ergebnis = Hauptklasse.dez_zu_rom(2017);
+                var ergebnis = Logik_Klasse.dez_zu_rom_logik_hauptfunktion(2017);
                 Assert.AreEqual("MMXVII", ergebnis);
             }
             [Test, Category("Ausgabetest")]
             public void Test_Ausgabe()
             {
-                var ergebnis = Hauptklasse.ausgabe(99);
+                var ergebnis = Hauptklasse.rechnen_und_ausgabe(99);
                 Assert.AreEqual("XCIX", ergebnis);
             }
 
@@ -37,7 +37,6 @@ namespace projekttests
                 var gueltigkeit = Hauptklasse.werte_bereich(300);
                 Assert.AreEqual("", gueltigkeit);
             }
-
 
     }  
 }
