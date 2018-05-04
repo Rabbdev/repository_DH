@@ -9,7 +9,7 @@ namespace projekt_mit_test
     public class Logik_Klasse
     {
 
-        // ---------------------------   Hauptfunktion der Logik  ------------------------------------------------------------------
+        // ---------------------------   Hauptfunktion der Logik  --------------------------------------------------------------------
 
         internal static string dez_zu_rom_logik_hauptfunktion(int wert)
         {
@@ -27,7 +27,7 @@ namespace projekt_mit_test
 
 
 
-         //--------------------------------- Unterfunktion ---------------------------------------------------
+         //--------------------------------- Unterfunktion ---------------------------------------------------------------------------
 
 
         internal static string for_berechnung(int wert, int[] dezimal, string[] roemisch)

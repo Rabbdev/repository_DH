@@ -14,8 +14,8 @@ namespace projekttests
             [Test, Category("Umrechungstest")]
             public void Test_zahl()
             {
-                var ergebnis = Logik_Klasse.dez_zu_rom_logik_hauptfunktion(2017);
-                Assert.AreEqual("MMXVII", ergebnis);
+                var ergebnis = Logik_Klasse.dez_zu_rom_logik_hauptfunktion(2018);
+                Assert.AreEqual("MMXVIII", ergebnis);
             }
             [Test, Category("Ausgabetest")]
             public void Test_Ausgabe()
